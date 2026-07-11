@@ -18,12 +18,10 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=t3F2loFmoFs" target="_blank">
-        <img src="./.github/preview.png" width="800">
-    </a>
-</p>
-
-<p align="center">
-    <strong>(watch a <a href="https://www.youtube.com/watch?v=t3F2loFmoFs" target="_blank">video preview</a>)</strong>
+		<img src="./.github/preview.png" width="800">
+		<br />
+		(demonstration video)
+	</a>
 </p>
 
 <h2>
